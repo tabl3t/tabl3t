@@ -44,7 +44,7 @@
 
 ---
 
-### ✨ “Discipline + Creativity + Consistency = Success”  
+### ✨ “Do whatever you dont want to do...trust me”  
 *— tabl3t*
 
 
