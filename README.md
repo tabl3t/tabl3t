@@ -1,8 +1,8 @@
 ##  Hi, I'm Shahriar Islam Tamim (tabl3t)
 
- **CSE Student @ Leading University**  
- **Freelancer on Fiverr — Building Portfolio Websites, Frontend Designs & Brand Identities**  
- Exploring Tech, Creativity, and Business Mindset
+**CSE Student @ Leading University**  
+**Freelancer on Fiverr — Building Portfolio Websites, Frontend Designs & Brand Identities**  
+Exploring Tech, Creativity, and Business Mindset
 
 ---
 
