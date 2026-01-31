@@ -58,21 +58,28 @@
 
 <div align="center">
   
-  <a href="https://github.com/tabl3t">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tabl3t&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="tabl3t's Github Stats" />
-  </a>
-  <a href="https://github.com/tabl3t">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tabl3t&theme=tokyonight" height="180" alt="tabl3t's Streak" />
-  </a>
+  <table>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://github.com/tabl3t">
+          <img src="https://github-readme-stats.vercel.app/api?username=tabl3t&show_icons=true&theme=tokyonight&hide_border=true" alt="tabl3t's Github Stats" />
+        </a>
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://github.com/tabl3t">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=tabl3t&theme=tokyonight&hide_border=true" alt="tabl3t's Streak" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
-  <br/><br/>
+  <br/>
 
   <a href="https://github.com/tabl3t">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabl3t&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="tabl3t's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabl3t&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="tabl3t's Top Languages" />
   </a>
 
 </div>
-
 <br/>
 <hr/>
 
