@@ -1,64 +1,86 @@
-##  Hi, I'm Shahriar Islam Tamim (tabl3t)
+<div align="center">
 
-**CSE Student @ Leading University**  
-**Freelancer on Fiverr — Building Portfolio Websites, Frontend Designs & Brand Identities**  
-Exploring Tech, Creativity, and Business Mindset
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Shahriar%20Islam%20Tamim&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Designer%20%7C%20Developer%20%7C%20Freelancer&descAlignY=55&descAlign=50" alt="header" />
 
----
+  ### 🚀 CSE Student @ Leading University | Freelance Developer
+  
+  <br/>
 
-##  About Me
--  Combining creativity & logic to solve real-world problems  
--  Learning **Web Development**, **C++**, and **python**  
--  Developing **portfolio websites** & **client projects** 
--  Inspired by **Cristiano Ronaldo’s discipline** & **a billionaire mindset**  
+  <p align="center">
+    "Bridging the gap between <b>Creative Design</b> and <b>Logical Coding</b>."
+    <br/>
+    Inspired by discipline and a growth mindset.
+  </p>
 
----
+  <br/>
 
-##  Tech Stack
-**Languages:**  
-`C` • `C++` • `Python` • `HTML` • `CSS` • `JavaScript`
+  <a href="https://www.linkedin.com/in/shahriar-islam-tamim-a36351346" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:tamimislam254@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.fiverr.com/users/shahriarislam.9" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
+  </a>
+  <a href="https://codeforces.com/profile/tabl3t" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
 
-**Tools:**  
-`Git` • `VS Code` • `Figma` • `Adobe Illustrator` • `WordPress`
+</div>
 
----
+<br/>
+<hr/>
 
-##  Fiverr & Freelance Services
- **Portfolio & e-commerce Websites** (HTML/CSS/JS)
- **Social media post & Brand Design**
+### ⚡ About Me
 
----
+- 🔭 I’m currently working on **Portfolio Websites & E-commerce projects.**
+- 🌱 I’m currently learning **Advanced React & Data Structures.**
+- 🎨 I combine **Figma/Illustrator** designs with **C++/Python** logic.
+- 🥅 **Goal:** To build scalable applications and grow my freelance brand.
+- 💬 Ask me about **Frontend Design & Brand Identity.**
 
-##  GitHub Stats
-![Tamim's GitHub stats](https://github-readme-stats.vercel.app/api?username=tabl3t&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tabl3t&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tabl3t&theme=tokyonight)
+<br/>
 
----
+### 🛠️ Tech Stack & Tools
 
-##  Connect With Me
- **Email:** [tamimislam254@gmail.com](mailto:tamimislam254@gmail.com)  
- **Portfolio:** [My Work](https://drive.google.com/drive/folders/1zTEg-xnn-xEDbTNU4z1FwhEX4K8hZNGS?usp=drive_link)  
- **Instagram:** [@t_a_b_l_3_t](https://www.instagram.com/t_a_b_l_3_t)  
- **University:** Leading University, Sylhet  
+<div align="center">
 
----
+| **Languages** | **Frontend & Web** | **Design & Tools** |
+|:---:|:---:|:---:|
+| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) |
 
-###  “Do whatever you dont want to do...trust me”  
-*— tabl3t*
+</div>
 
+<br/>
 
-<!--
-**tabl3t/tabl3t** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 GitHub Analytics
 
-Here are some ideas to get you started:
+<div align="center">
+  
+  <a href="https://github.com/tabl3t">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tabl3t&show_icons=true&theme=tokyonight&count_private=true" height="180" alt="tabl3t's Github Stats" />
+  </a>
+  <a href="https://github.com/tabl3t">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tabl3t&theme=tokyonight" height="180" alt="tabl3t's Streak" />
+  </a>
 
--  I’m currently working on ...
--  I’m currently learning ...
--  I’m looking to collaborate on ...
--  I’m looking for help with ...
--  Ask me about ...
--  How to reach me: ...
--  Pronouns: ...
--  Fun fact: ...
--->
+  <br/><br/>
+
+  <a href="https://github.com/tabl3t">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabl3t&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="tabl3t's Top Languages" />
+  </a>
+
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <br/>
+  <i>"Do whatever you don't want to do... trust me."</i>
+  <br/>
+  <b>— Shahriar Islam Tamim</b>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=tabl3t&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
