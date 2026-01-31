@@ -34,11 +34,11 @@
 
 ###  About Me
 
-- 🔭 I’m currently working on **Portfolio Websites & E-commerce projects.**
-- 🌱 I’m currently learning **Advanced React & Data Structures.**
-- 🎨 I combine **Figma/Illustrator** designs with **C++/Python** logic.
-- 🥅 **Goal:** To build scalable applications and grow my freelance brand.
-- 💬 Ask me about **Frontend Design & Brand Identity.**
+-  I’m currently working on **Portfolio Websites & E-commerce projects.**
+-  I’m currently learning **Advanced React & Data Structures.**
+-  I combine **Figma/Illustrator** designs with **C++/Python** logic.
+-  **Goal:** To build scalable applications and grow my freelance brand.
+-  Ask me about **Frontend Design & Brand Identity.**
 
 <br/>
 
