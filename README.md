@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Shahriar%20Islam%20Tamim&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Designer%20%7C%20Developer%20%7C%20Freelancer&descAlignY=55&descAlign=50" alt="header" />
 
-  ### 🚀 CSE Student @ Leading University | Freelance Developer
+  ###  CSE Student @ Leading University | Freelance Developer
   
   <br/>
 
