@@ -32,7 +32,7 @@
 <br/>
 <hr/>
 
-### ⚡ About Me
+###  About Me
 
 - 🔭 I’m currently working on **Portfolio Websites & E-commerce projects.**
 - 🌱 I’m currently learning **Advanced React & Data Structures.**
@@ -42,7 +42,7 @@
 
 <br/>
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 <div align="center">
 
@@ -54,7 +54,7 @@
 
 <br/>
 
-### 📊 GitHub Analytics
+###  GitHub Analytics
 
 <div align="center">
   
