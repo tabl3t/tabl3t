@@ -84,4 +84,3 @@
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=tabl3t&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
-<p>Portfolio website coming soon...</p>
